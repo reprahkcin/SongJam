@@ -1,4 +1,4 @@
 
-function test(){
-    console.log(keys.cMajor.chords[1])
-}
+// function test(){
+//     console.log(keys[])
+// }

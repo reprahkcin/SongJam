@@ -12,7 +12,7 @@ const cMajor = {
         "Am",
         "Bdim"
     ],
-    scaleGraphic: "./images/cMajor.svg",
+    scaleGraphic: "./images/cMajor.png",
     relative: "Am"
 }
 
@@ -26,7 +26,7 @@ const aMinor = {
         "F",
         "G"
     ],
-    scaleGraphic: "./images/aMinor.svg",
+    scaleGraphic: "./images/aMinor.png",
     relative: "C"
 }
 
@@ -40,7 +40,7 @@ const gMajor = {
         "Em",
         "F♯dim"
     ],
-    scaleGraphic: "./images/gMajor.svg",
+    scaleGraphic: "./images/gMajor.png",
     relative: "Em"
 }
 
@@ -54,7 +54,7 @@ const eMinor = {
         "C",
         "D"
     ],
-    scaleGraphic: "./images/eMinor.svg",
+    scaleGraphic: "./images/eMinor.png",
     relative: "G"
 }
 
@@ -68,7 +68,7 @@ const dMajor = {
         "Bm",
         "C♯dim"
     ],
-    scaleGraphic: "./images/dMajor.svg",
+    scaleGraphic: "./images/dMajor.png",
     relative: "Bm"
 }
 
@@ -82,7 +82,7 @@ const bMinor = {
         "G",
         "A"
     ],
-    scaleGraphic: "./images/bMinor.svg",
+    scaleGraphic: "./images/bMinor.png",
     relative: "D"
 }
 
@@ -96,7 +96,7 @@ const aMajor = {
         "F♯m",
         "G♯dim"
     ],
-    scaleGraphic: "./images/aMajor.svg",
+    scaleGraphic: "./images/aMajor.png",
     relative: "F♯m"
 }
 
@@ -110,7 +110,7 @@ const fSharpMinor = {
         "D",
         "E"
     ],
-    scaleGraphic: "./images/fSharpMinor.svg",
+    scaleGraphic: "./images/fSharpMinor.png",
     relative: "A"
 }
 
@@ -124,7 +124,7 @@ const eMajor = {
         "C♯m",
         "D♯dim"
     ],
-    scaleGraphic: "./images/eMajor.svg",
+    scaleGraphic: "./images/eMajor.png",
     relative: "C♯m"
 }
 
@@ -138,7 +138,7 @@ const cSharpMinor = {
         "A",
         "B"
     ],
-    scaleGraphic: "./images/cSharpMinor.svg",
+    scaleGraphic: "./images/cSharpMinor.png",
     relative: "E"
 }
 
@@ -152,7 +152,7 @@ const bMajor = {
         "G♯m",
         "A♯dim"
     ],
-    scaleGraphic: "./images/bMajor.svg",
+    scaleGraphic: "./images/bMajor.png",
     relative: "G♯m"
 }
 
@@ -166,7 +166,7 @@ const gSharpMinor = {
         "E",
         "F♯"
     ],
-    scaleGraphic: "./images/gSharpMinor.svg",
+    scaleGraphic: "./images/gSharpMinor.png",
     relative: "B"
 }
 
@@ -180,7 +180,7 @@ const fSharpMajor = {
         "D♯m",
         "E♯dim"
     ],
-    scaleGraphic: "./images/fSharpMajor.svg",
+    scaleGraphic: "./images/fSharpMajor.png",
     relative: "D♯m"
 }
 
@@ -194,7 +194,7 @@ const dSharpMinor = {
         "B",
         "C♯"
     ],
-    scaleGraphic: "./images/dSharpMinor.svg",
+    scaleGraphic: "./images/dSharpMinor.png",
     relative: "F♯"
 }
 
@@ -208,7 +208,7 @@ const gFlatMajor = {
         "E♭m",
         "Fdim"
     ],
-    scaleGraphic: "./images/gFlatMajor.svg",
+    scaleGraphic: "./images/gFlatMajor.png",
     relative: "E♭m"
 }
 
@@ -222,7 +222,7 @@ const eFlatMinor = {
         "C♭",
         "D♭"
     ],
-    scaleGraphic: "./images/eFlatMinor.svg",
+    scaleGraphic: "./images/eFlatMinor.png",
     relative: "G♭"
 }
 
@@ -236,7 +236,7 @@ const dFlatMajor = {
         "B♭m",
         "Cdim"
     ],
-    scaleGraphic: "./images/dFlatMajor.svg",
+    scaleGraphic: "./images/dFlatMajor.png",
     relative: "B♭m"
 }
 
@@ -250,7 +250,7 @@ const bFlatMinor = {
         "G♭",
         "A♭"
     ],
-    scaleGraphic: "./images/bFlatMinor.svg",
+    scaleGraphic: "./images/bFlatMinor.png",
     relative: "D♭"
 }
 
@@ -264,7 +264,7 @@ const aFlatMajor = {
         "Fm",
         "Gdim"
     ],
-    scaleGraphic: "./images/aFlatMajor.svg",
+    scaleGraphic: "./images/aFlatMajor.png",
     relative: "Fm"
 }
 
@@ -278,7 +278,7 @@ const fMinor = {
         "D♭",
         "E♭"
     ],
-    scaleGraphic: "./images/fMinor.svg",
+    scaleGraphic: "./images/fMinor.png",
     relative: "A♭"
 }
 
@@ -292,7 +292,7 @@ const eFlatMajor = {
         "Cm",
         "Ddim"
     ],
-    scaleGraphic: "./images/eFlatMajor.svg",
+    scaleGraphic: "./images/eFlatMajor.png",
     relative: "Cm"
 }
 
@@ -306,7 +306,7 @@ const cMinor = {
         "A♭",
         "B♭"
     ],
-    scaleGraphic: "./images/cMinor.svg",
+    scaleGraphic: "./images/cMinor.png",
     relative: "E♭"
 }
 
@@ -320,7 +320,7 @@ const bFlatMajor = {
         "Gm",
         "Adim"
     ],
-    scaleGraphic: "./images/bFlatMajor.svg",
+    scaleGraphic: "./images/bFlatMajor.png",
     relative: "Gm"
 }
 
@@ -334,7 +334,7 @@ const gMinor = {
         "E♭",
         "F"
     ],
-    scaleGraphic: "./images/gMinor.svg",
+    scaleGraphic: "./images/gMinor.png",
     relative: "B♭"
 }
 
@@ -348,7 +348,7 @@ const fMajor = {
         "Dm",
         "Edim"
     ],
-    scaleGraphic: "./images/fMajor.svg",
+    scaleGraphic: "./images/fMajor.png",
     relative: "Dm"
 }
 
@@ -362,11 +362,11 @@ const dMinor = {
         "B♭",
         "C"
     ],
-    scaleGraphic: "./images/dMinor.svg",
+    scaleGraphic: "./images/dMinor.png",
     relative: "F"
 }
 
-function readout() {
+function selectRandomKey() {
     let keys = [
         cMajor,
         aMinor,
@@ -394,10 +394,27 @@ function readout() {
         gMinor,
         fMajor,
         dMinor
-    ]
+    ];
 
-    keys.forEach(element => {
-        console.log(element.chords);
-    });
+    let randomKey = keys[Math.floor(Math.random() * keys.length)];
+
+    console.log(randomKey.chords);
+    
+    let spot = document.getElementById("key-image");
+    while(spot.firstChild){
+        spot.removeChild(spot.firstChild);
+    }
+
+    let txt = document.createElement("h1");
+    txt.innerHTML = "The randomly selected key is " + randomKey.chords[0];
+    let img = document.createElement("img");
+    img.src = randomKey.scaleGraphic;
+    spot.appendChild(txt);
+    spot.appendChild(img);
+
+    // keys.forEach(element => {
+    //     console.log(element.chords);
+    // });
 }
+
 
