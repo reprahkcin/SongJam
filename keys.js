@@ -13,7 +13,9 @@ const cMajor = {
         "Bdim"
     ],
     scaleGraphic: "./images/cMajor.png",
-    relative: "Am"
+    relative: "Am",
+    relativeType: "Minor",
+    relativeGraphic: "./images/aMinor.png"
 }
 
 const aMinor = {
@@ -27,7 +29,9 @@ const aMinor = {
         "G"
     ],
     scaleGraphic: "./images/aMinor.png",
-    relative: "C"
+    relative: "C",
+    relativeType: "Major",
+    relativeGraphic: "./images/cMajor.png"
 }
 
 const gMajor = {
@@ -41,7 +45,9 @@ const gMajor = {
         "F♯dim"
     ],
     scaleGraphic: "./images/gMajor.png",
-    relative: "Em"
+    relative: "Em",
+    relativeType: "Minor",
+    relativeGraphic: "./images/eMinor.png"
 }
 
 const eMinor = {
@@ -55,7 +61,9 @@ const eMinor = {
         "D"
     ],
     scaleGraphic: "./images/eMinor.png",
-    relative: "G"
+    relative: "G",
+    relativeType: "Major",
+    relativeGraphic: "./images/gMajor.png"
 }
 
 const dMajor = {
@@ -69,7 +77,9 @@ const dMajor = {
         "C♯dim"
     ],
     scaleGraphic: "./images/dMajor.png",
-    relative: "Bm"
+    relative: "Bm",
+    relativeType: "Minor",
+    relativeGraphic: "./images/bMinor.png"
 }
 
 const bMinor = {
@@ -83,7 +93,9 @@ const bMinor = {
         "A"
     ],
     scaleGraphic: "./images/bMinor.png",
-    relative: "D"
+    relative: "D",
+    relativeType: "Major",
+    relativeGraphic: "./images/dMajor.png"
 }
 
 const aMajor = {
@@ -97,7 +109,9 @@ const aMajor = {
         "G♯dim"
     ],
     scaleGraphic: "./images/aMajor.png",
-    relative: "F♯m"
+    relative: "F♯m",
+    relativeType: "Minor",
+    relativeGraphic: "./images/fSharpMinor.png"
 }
 
 const fSharpMinor = {
@@ -111,7 +125,9 @@ const fSharpMinor = {
         "E"
     ],
     scaleGraphic: "./images/fSharpMinor.png",
-    relative: "A"
+    relative: "A",
+    relativeType: "Major",
+    relativeGraphic: "./images/aMajor.png"
 }
 
 const eMajor = {
@@ -125,7 +141,9 @@ const eMajor = {
         "D♯dim"
     ],
     scaleGraphic: "./images/eMajor.png",
-    relative: "C♯m"
+    relative: "C♯m",
+    relativeType: "Minor",
+    relativeGraphic: "./images/cSharpMinor.png"
 }
 
 const cSharpMinor = {
@@ -139,7 +157,9 @@ const cSharpMinor = {
         "B"
     ],
     scaleGraphic: "./images/cSharpMinor.png",
-    relative: "E"
+    relative: "E",
+    relativeType: "Major",
+    relativeGraphic: "./images/eMajor.png"
 }
 
 const bMajor = {
@@ -153,7 +173,9 @@ const bMajor = {
         "A♯dim"
     ],
     scaleGraphic: "./images/bMajor.png",
-    relative: "G♯m"
+    relative: "G♯m",
+    relativeType: "Minor",
+    relativeGraphic: "./images/gSharpMinor.png"
 }
 
 const gSharpMinor = {
@@ -167,7 +189,9 @@ const gSharpMinor = {
         "F♯"
     ],
     scaleGraphic: "./images/gSharpMinor.png",
-    relative: "B"
+    relative: "B",
+    relativeType: "Major",
+    relativeGraphic: "./images/bMajor.png"
 }
 
 const fSharpMajor = {
@@ -181,7 +205,9 @@ const fSharpMajor = {
         "E♯dim"
     ],
     scaleGraphic: "./images/fSharpMajor.png",
-    relative: "D♯m"
+    relative: "D♯m",
+    relativeType: "Minor",
+    relativeGraphic: "./images/dSharpMinor.png"
 }
 
 const dSharpMinor = {
@@ -195,7 +221,9 @@ const dSharpMinor = {
         "C♯"
     ],
     scaleGraphic: "./images/dSharpMinor.png",
-    relative: "F♯"
+    relative: "F♯",
+    relativeType: "Major",
+    relativeGraphic: "./images/fSharpMajor.png"
 }
 
 const gFlatMajor = {
@@ -209,7 +237,9 @@ const gFlatMajor = {
         "Fdim"
     ],
     scaleGraphic: "./images/gFlatMajor.png",
-    relative: "E♭m"
+    relative: "E♭m",
+    relativeType: "Minor",
+    relativeGraphic: "./images/eFlatMinor.png"
 }
 
 const eFlatMinor = {
@@ -223,7 +253,9 @@ const eFlatMinor = {
         "D♭"
     ],
     scaleGraphic: "./images/eFlatMinor.png",
-    relative: "G♭"
+    relative: "G♭",
+    relativeType: "Major",
+    relativeGraphic: "./images/gFlatMajor.png"
 }
 
 const dFlatMajor = {
@@ -237,7 +269,9 @@ const dFlatMajor = {
         "Cdim"
     ],
     scaleGraphic: "./images/dFlatMajor.png",
-    relative: "B♭m"
+    relative: "B♭m",
+    relativeType: "Minor",
+    relativeGraphic: "./images/bFlatMinor.png"
 }
 
 const bFlatMinor = {
@@ -251,7 +285,9 @@ const bFlatMinor = {
         "A♭"
     ],
     scaleGraphic: "./images/bFlatMinor.png",
-    relative: "D♭"
+    relative: "D♭",
+    relativeType: "Major",
+    relativeGraphic: "./images/dFlatMajor.png"
 }
 
 const aFlatMajor = {
@@ -265,7 +301,9 @@ const aFlatMajor = {
         "Gdim"
     ],
     scaleGraphic: "./images/aFlatMajor.png",
-    relative: "Fm"
+    relative: "Fm",
+    relativeType: "Minor",
+    relativeGraphic: "./images/fMinor.png"
 }
 
 const fMinor = {
@@ -279,7 +317,9 @@ const fMinor = {
         "E♭"
     ],
     scaleGraphic: "./images/fMinor.png",
-    relative: "A♭"
+    relative: "A♭",
+    relativeType: "Major",
+    relativeGraphic: "./images/aFlatMajor.png"
 }
 
 const eFlatMajor = {
@@ -293,7 +333,9 @@ const eFlatMajor = {
         "Ddim"
     ],
     scaleGraphic: "./images/eFlatMajor.png",
-    relative: "Cm"
+    relative: "Cm",
+    relativeType: "Minor",
+    relativeGraphic: "./images/cMinor.png"
 }
 
 const cMinor = {
@@ -307,7 +349,9 @@ const cMinor = {
         "B♭"
     ],
     scaleGraphic: "./images/cMinor.png",
-    relative: "E♭"
+    relative: "E♭",
+    relativeType: "Major",
+    relativeGraphic: "./images/eFlatMajor.png"
 }
 
 const bFlatMajor = {
@@ -321,7 +365,9 @@ const bFlatMajor = {
         "Adim"
     ],
     scaleGraphic: "./images/bFlatMajor.png",
-    relative: "Gm"
+    relative: "Gm",
+    relativeType: "Minor",
+    relativeGraphic: "./images/gMinor.png"
 }
 
 const gMinor = {
@@ -335,7 +381,9 @@ const gMinor = {
         "F"
     ],
     scaleGraphic: "./images/gMinor.png",
-    relative: "B♭"
+    relative: "B♭",
+    relativeType: "Major",
+    relativeGraphic: "./images/bFlatMajor.png"
 }
 
 const fMajor = {
@@ -349,7 +397,9 @@ const fMajor = {
         "Edim"
     ],
     scaleGraphic: "./images/fMajor.png",
-    relative: "Dm"
+    relative: "Dm",
+    relativeType: "Minor",
+    relativeGraphic: "./images/dMinor.png"
 }
 
 const dMinor = {
@@ -363,7 +413,9 @@ const dMinor = {
         "C"
     ],
     scaleGraphic: "./images/dMinor.png",
-    relative: "F"
+    relative: "F",
+    relativeType: "Major",
+    relativeGraphic: "./images/fMajor.png"
 }
 
 function selectRandomKey() {
@@ -407,10 +459,22 @@ function selectRandomKey() {
 
     let txt = document.createElement("h1");
     txt.innerHTML = "The randomly selected key is " + randomKey.chords[0];
+    let chordKey = document.createElement("p");
+    chordKey.innerHTML = "The chords in " + randomKey.chords[0] + "are: " + randomKey.chords;
     let img = document.createElement("img");
     img.src = randomKey.scaleGraphic;
+    let txtRelative = document.createElement("h1"); 
+    txtRelative.innerHTML = "The relative " + randomKey.relativeType + " key is " + randomKey.relative;
+    
+    let imgRelative = document.createElement("img");
+    imgRelative.src = randomKey.relativeGraphic;
+    
     spot.appendChild(txt);
+    spot.appendChild(chordKey);
     spot.appendChild(img);
+    spot.appendChild(txtRelative);
+    spot.appendChild(imgRelative);
+
 
     // keys.forEach(element => {
     //     console.log(element.chords);
