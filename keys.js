@@ -460,7 +460,7 @@ function selectRandomKey() {
     let txt = document.createElement("h1");
     txt.innerHTML = "The randomly selected key is " + randomKey.chords[0];
     let chordKey = document.createElement("p");
-    chordKey.innerHTML = "The chords in " + randomKey.chords[0] + "are: " + randomKey.chords;
+    chordKey.innerHTML = "The chords in " + randomKey.chords[0] + " are: " + randomKey.chords[0] + " - " + randomKey.chords[1] + " - " + randomKey.chords[2] + " - " + randomKey.chords[3] + " - " + randomKey.chords[4] + " - " + randomKey.chords[5] + " - " + randomKey.chords[6];
     let img = document.createElement("img");
     img.src = randomKey.scaleGraphic;
     let txtRelative = document.createElement("h1"); 
