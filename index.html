@@ -8,6 +8,11 @@
     <title>Document</title>
     <script src="./keys.js" defer></script>
     <script src="./script.js" defer></script>
+    <script src="./timeSignatures.js" defer></script>
+    <script src="./achievements.js" defer></script>
+    <script src="./subjects.js" defer></script>
+    <script src="./genres.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -19,15 +24,16 @@
         <div class="row" id="item">
             <div class="col col-6">
                 <p>Genre</p>
-                <button onclick="selectRandomKey()">test</button>
+                <button onclick="selectRandomGenre()">Get Genre</button>
             </div>
             <div class="col col-6">
-                <p>randomized result</p>
+                <p id="genre">randomized result</p>
             </div>
         </div>
         <div class="row" id="item key-row">
             <div class="col col-6">
                 <p>Key</p>
+                <button onclick="selectRandomKey()">Get Key</button>
             </div>
             <div class="col col-6" id="key-image"> 
                 <p>randomized result</p>
@@ -37,17 +43,19 @@
         <div class="row" id="item">
             <div class="col col-6">
                 <p>Tempo and Time signature</p>
+                <button onclick="selectRandomTimeSignature()">Get Time and Tempo</button>
             </div>
             <div class="col col-6">
-                <p>randomized result</p>
+                <p id="time-signature">Tempo and Time Signature Result</p>  
             </div>
         </div>
         <div class="row" id="item">
             <div class="col col-6">
-                <p>Randomly selected instrument</p>
+                <p>Subject Prompt</p>
+                <button onclick="selectRandomSubject()">Get Subject</button>
             </div>
             <div class="col col-6">
-                <p>randomized result</p>
+                <p id="subject">Random Prompt</p>
             </div>
         </div>
         <div class="row" id="item">

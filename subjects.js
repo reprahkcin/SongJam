@@ -28,5 +28,14 @@ const subjects = [
     "Standing your ground",
     "Extended Metaphor",
     "Something you learned",
-    "Something you accomplished"
+    "Something you accomplished",
+    "Friends and Family",
+    "Uncomfortable Conversation",
+    "Injustice"
 ]
+
+function selectRandomSubject(){
+    let randomSubject = subjects[Math.floor(Math.random() * subjects.length)];
+    let textBox = document.getElementById('subject');
+    textBox.innerHTML = "Subject Prompt: " + randomSubject;
+}
