@@ -419,61 +419,82 @@ const dMinor = {
 }
 
 function selectRandomKey() {
-    let keys = [
-        cMajor,
-        aMinor,
-        gMajor,
-        eMinor,
-        dMajor,
-        bMinor,
-        aMajor,
-        fSharpMinor,
-        eMajor,
-        cSharpMinor,
-        bMajor,
-        gSharpMinor,
-        fSharpMajor,
-        dSharpMinor,
-        gFlatMajor,
-        eFlatMinor,
-        dFlatMajor,
-        bFlatMinor,
-        aFlatMajor,
-        fMinor,
-        eFlatMajor,
-        cMinor,
-        bFlatMajor,
-        gMinor,
-        fMajor,
-        dMinor
+    let weightedKeys = [
+        [cMajor, 26],
+        [aMinor, 26],
+        [gMajor, 12],
+        [eMinor, 12],
+        [dMajor, 8],
+        [bMinor, 8],
+        [aMajor, 8],
+        [fSharpMinor, 8],
+        [eMajor, 7],
+        [cSharpMinor, 7],
+        [bMajor, 3],
+        [gSharpMinor, 3],
+        [fSharpMajor, 3],
+        [dSharpMinor, 3],
+        [gFlatMajor, 2],
+        [eFlatMinor, 2],
+        [dFlatMajor, 2],
+        [bFlatMinor, 2],
+        [aFlatMajor, 4],
+        [fMinor, 4],
+        [eFlatMajor, 10],
+        [cMinor, 10],
+        [bFlatMajor, 5],
+        [gMinor, 5],
+        [fMajor, 9],
+        [dMinor, 9]
     ];
+
+    let keys = [];
+
+    // Loop through the master entries.
+    for (let i = 0; i < weightedKeys.length; ++i) {
+    // Push the value over and over again according to its
+    // weight.
+    for (let j = 0; j < weightedKeys[i][1]; ++j) {
+        keys.push(weightedKeys[i][0]);
+    }
+    }
 
     let randomKey = keys[Math.floor(Math.random() * keys.length)];
 
     console.log(randomKey.chords);
     
-    let spot = document.getElementById("key-image");
-    while(spot.firstChild){
-        spot.removeChild(spot.firstChild);
+    let spot1 = document.getElementById("key-image-one");
+    spot1.classList.add("divider");
+    while(spot1.firstChild){
+        spot1.removeChild(spot1.firstChild);
+    }
+    let spot2 = document.getElementById("key-image-two");
+    while(spot2.firstChild){
+        spot2.removeChild(spot2.firstChild);
     }
 
-    let txt = document.createElement("h1");
+    let txt = document.createElement("h3");
     txt.innerHTML = "The randomly selected key is " + randomKey.chords[0];
-    let chordKey = document.createElement("p");
-    chordKey.innerHTML = "The chords in " + randomKey.chords[0] + " are: " + randomKey.chords[0] + " - " + randomKey.chords[1] + " - " + randomKey.chords[2] + " - " + randomKey.chords[3] + " - " + randomKey.chords[4] + " - " + randomKey.chords[5] + " - " + randomKey.chords[6];
+    let chordKey1 = document.createElement("h4");
+    chordKey1.innerHTML = "The chords in " + randomKey.chords[0] + " are: " + randomKey.chords[0] + " - " + randomKey.chords[1] + " - " + randomKey.chords[2] + " - " + randomKey.chords[3] + " - " + randomKey.chords[4] + " - " + randomKey.chords[5] + " - " + randomKey.chords[6];
+    let chordKey2 = document.createElement("h4");
+    chordKey2.innerHTML = "The chords in " + randomKey.relative + " are: " + randomKey.chords[5] + " - " + randomKey.chords[6] + " - " + randomKey.chords[0] + " - " + randomKey.chords[1] + " - " + randomKey.chords[2] + " - " + randomKey.chords[3] + " - " + randomKey.chords[4];
+    
+    
     let img = document.createElement("img");
     img.src = randomKey.scaleGraphic;
-    let txtRelative = document.createElement("h1"); 
+    let txtRelative = document.createElement("h3"); 
     txtRelative.innerHTML = "The relative " + randomKey.relativeType + " key is " + randomKey.relative;
     
     let imgRelative = document.createElement("img");
     imgRelative.src = randomKey.relativeGraphic;
     
-    spot.appendChild(txt);
-    spot.appendChild(chordKey);
-    spot.appendChild(img);
-    spot.appendChild(txtRelative);
-    spot.appendChild(imgRelative);
+    spot1.appendChild(txt);
+    spot1.appendChild(chordKey1);
+    spot1.appendChild(img);
+    spot2.appendChild(txtRelative);
+    spot2.appendChild(chordKey2);
+    spot2.appendChild(imgRelative);
 
 
     // keys.forEach(element => {

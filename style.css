@@ -1,3 +1,27 @@
 .row{
-    border: 2px solid black;
+    padding-top: 1em;  
+    min-height: 80px;
+}
+
+#title-box{
+    background-color: lightgray;
+}
+
+#key-image-one{
+    padding-top: 1em;
+    text-align: center;
+}
+
+#key-image-two{
+    padding-top: 1em;
+    text-align: center;
+}
+
+.result{
+    text-align: center;
+}
+
+.divider{
+    border-right:2px solid black;
+
 }

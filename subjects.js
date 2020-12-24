@@ -31,11 +31,15 @@ const subjects = [
     "Something you accomplished",
     "Friends and Family",
     "Uncomfortable Conversation",
-    "Injustice"
+    "Injustice",
+    "Awkward Phychadelic Experience",
+    "Betrayal",
+    "Experience that left you Feeling Hopeful",
+    "Holiday",
 ]
 
 function selectRandomSubject(){
     let randomSubject = subjects[Math.floor(Math.random() * subjects.length)];
     let textBox = document.getElementById('subject');
-    textBox.innerHTML = "Subject Prompt: " + randomSubject;
+    textBox.innerHTML = randomSubject;
 }
