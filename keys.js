@@ -479,14 +479,13 @@ function selectRandomKey() {
     txt.innerHTML = "The randomly selected key is " + randomKey.chords[0];
     let chordKey1 = document.createElement("h4");
     chordKey1.innerHTML = "The chords in " + randomKey.chords[0] + " are: " + randomKey.chords[0] + " - " + randomKey.chords[1] + " - " + randomKey.chords[2] + " - " + randomKey.chords[3] + " - " + randomKey.chords[4] + " - " + randomKey.chords[5] + " - " + randomKey.chords[6];
-    
+    let chordKey2 = document.createElement("h4");
+   
     if(randomKey.relativeType == "Minor"){
-        let chordKey2 = document.createElement("h4");
         chordKey2.innerHTML = "The chords in " + randomKey.relative + " are: " + randomKey.chords[5] + " - " + randomKey.chords[6] + " - " + randomKey.chords[0] + " - " + randomKey.chords[1] + " - " + randomKey.chords[2] + " - " + randomKey.chords[3] + " - " + randomKey.chords[4];
     }
     
     if(randomKey.relativeType == "Major"){
-        let chordKey2 = document.createElement("h4");
         chordKey2.innerHTML = "The chords in " + randomKey.relative + " are: " + randomKey.chords[2] + " - " + randomKey.chords[3] + " - " + randomKey.chords[4] + " - " + randomKey.chords[5] + " - " + randomKey.chords[6] + " - " + randomKey.chords[0] + " - " + randomKey.chords[1];
     }
 
