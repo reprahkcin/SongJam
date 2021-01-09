@@ -52,6 +52,7 @@ const subjects = [
     "Obsession",
     "Highly Intellectual",
     "Political Cause That's Important to You",
+    "Headline of the Day"
     
 
 ]
