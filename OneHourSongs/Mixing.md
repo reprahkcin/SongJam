@@ -56,7 +56,7 @@ The goal of this approach is to achieve a **“good-enough” mix** that’s c
         - Pan instruments to create space:
             - Kick, snare, bass, and lead vocals: Center.
             - Guitars, synths, and backing vocals: Pan left and right for width.
-2. **Step 2: [[EQ]] for Clarity**:
+2. **Step 2: [EQ](ED.md) for Clarity**:
     
     - Apply subtractive EQ to remove mud and frequency clashes.
     - **Quick EQ Guide**:
@@ -65,7 +65,7 @@ The goal of this approach is to achieve a **“good-enough” mix** that’s c
         - Snare: Boost 200 Hz for body; boost 5 kHz for snap.
         - Guitars: Cut below 100 Hz to avoid clashing with bass; boost 2–3 kHz for bite.
         - Bass: Cut frequencies above 5 kHz; boost 60–80 Hz for depth.
-3. **Step 3: [[Compression]] for Control**:
+3. **Step 3: [Compression](Compression.md) for Control**:
     
     - Use compression to smooth dynamics and maintain balance.
     - **Quick Compression Settings**:
@@ -168,7 +168,7 @@ The goal of this approach is to achieve a **“good-enough” mix** that’s c
 #### **Step-by-Step System**:
 
 1. **Set Static Mix**: Balance levels and panning without plugins.
-2. **Apply [[EQ]]**: Focus on subtractive EQ to clear up muddiness.
+2. **Apply [EQ](EQ.md)**: Focus on subtractive EQ to clear up muddiness.
 3. **Add Compression**: Control dynamics with minimal settings.
 4. **Use Reverb/Delay**: Create depth without overloading.
 5. **Apply Automation**: Make small adjustments for dynamics and emotion.
