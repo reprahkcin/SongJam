@@ -15,4 +15,4 @@
 - **Start Simple**: Choose one of the above and modify as needed.
 - **Batch Your Decisions**: Pre-select 3–5 structures you like and rotate through them to save time.
 - 
-- ![[Song_Structure_Table_with_Color_Coding.pdf]]
+- ![Song Structures](Song_Structure_Table_with_Color_Coding.pdf)
