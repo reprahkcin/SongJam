@@ -160,6 +160,7 @@ The goal here is to create a roadmap for the song. This step ensures that your c
     - **Storytelling:** Verse – Verse – Chorus – Verse (AABA)
     - **Dynamic:** Intro – Verse – Pre-Chorus – Chorus – Verse – Bridge – Chorus (ABACBC)
     - **Experimental:** Any variation (e.g., start with a chorus or bridge).
+    - [Variety of Song Structures](Song_Structure_Table_with_Color_Coding.pdf)
 - **Techniques:**
     - If unsure, start with the classic **ABABCB** structure.
     - Think about the emotional journey: Where will the song build? Where will it resolve?
@@ -198,14 +199,14 @@ The goal here is to create a roadmap for the song. This step ensures that your c
 
 - A clear structure, like this:
 
-Intro (4 bars)
-Verse 1 (8 bars) - Set the scene.
-Chorus (8 bars) - Emotional impact.
-Verse 2 (8 bars) - Expand the story.
-Chorus (8 bars) - Reinforce hook.
-Bridge (4 bars) - Add contrast.
-Chorus (8 bars) - Climactic repeat.
-Outro (4 bars) - Resolution.
+- Intro (4 bars)
+- Verse 1 (8 bars) - Set the scene.
+- Chorus (8 bars) - Emotional impact.
+- Verse 2 (8 bars) - Expand the story.
+- Chorus (8 bars) - Reinforce hook.
+- Bridge (4 bars) - Add contrast.
+- Chorus (8 bars) - Climactic repeat.
+- Outro (4 bars) - Resolution.
 
 ---
 
