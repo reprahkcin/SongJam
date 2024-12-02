@@ -1,21 +1,24 @@
 # Arrangement
-1. [[#**Start with a Clear Arrangement Plan|Start with a Clear Arrangement Plan]]
-1. [[#**Build the Core Foundation|Build the Core Foundation]]
-1. [[#**Layer Instruments Strategically|Layer Instruments Strategically]]
-1. [[#**Create Dynamics|Create Dynamics]]
-1. [[#**Layering Techniques|Layering Techniques]]
-1. [[#**Balance Frequency Ranges|Balance Frequency Ranges]]
-1. [[#**Use Textures and Ambience|Use Textures and Ambience]]
-1. [[#**Add Transitions|Add Transitions]]
-1. [[#**Focus on the Vocals|Focus on the Vocals]]
-1. [[#**Simplify Where Necessary|Simplify Where Necessary]]
-1. [[#**Test the Arrangement|Test the Arrangement]]
-1. [[#**Practical Workflow|Practical Workflow]]
-1. [[#**Arranging Specific Sections|Arranging Specific Sections]]
-1. [[#**Tools and Techniques for Speed|Tools and Techniques for Speed]]
-1. [[#**Visual Arrangement Tools|Visual Arrangement Tools]]
-1. [[#**Example Arrangement Workflow|Example Arrangement Workflow]]
 
+#### Quick Links
+- [Start with a Clear Arrangement Plan](#start-with-a-clear-arrangement-plan)
+- [Build the Core Foundation](#build-the-core-foundation)
+- [Layer Instruments Strategically](#layer-instruments-strategically)
+- [Create Dynamics](#create-dynamics)
+- [Layering Techniques](#layering-techniques)
+- [Balance Frequency Ranges](#balance-frequency-ranges)
+- [Use Textures and Ambience](#use-textures-and-ambience)
+- [Add Transitions](#add-transitions)
+- [Focus on the Vocals](#focus-on-the-vocals)
+- [Simplify Where Necessary](#simplify-where-necessary)
+- [Test the Arrangement](#test-the-arrangement)
+- [Practical Workflow](#practical-workflow)
+- [Arranging Specific Sections](#arranging-specific-sections)
+- [Tools and Techniques for Speed](#tools-and-techniques-for-speed)
+- [Visual Arrangement Tools](#visual-arrangement-tools)
+- [Example Arrangement Workflow](#example-arrangement-workflow)
+
+---
 ### **Start with a Clear Arrangement Plan**
 
 #### **Define Song Sections**

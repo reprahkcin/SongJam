@@ -3,17 +3,20 @@
 Programming MIDI instruments efficiently involves leveraging tools like **Scaler** or **Hookpad** to generate chord progressions, melodies, and rhythms. This streamlined approach saves time while allowing flexibility for creative adjustments.
 
 ---
-[[#**1. Setting Up Your Workflow|1. Setting Up Your Workflow]]
-[[#**2. Programming Chord Progressions|2. Programming Chord Progressions]]
-[[#**3. Adding Basslines|3. Adding Basslines]]
-[[#**4. Programming Melodies|4. Programming Melodies]]
-[[#**5. Adding Drums|5. Adding Drums]]
-[[#**6. Layering Pads and Atmosphere|6. Layering Pads and Atmosphere]]
-[[#**7. Fine-Tuning with MIDI Editing|7. Fine-Tuning with MIDI Editing]]
-[[#**8. Exporting and Preparing for Mixing|8. Exporting and Preparing for Mixing]]
-[[#**9. Workflow Example|9. Workflow Example]]
-[[#**Tools for MIDI Programming|Tools for MIDI Programming]]
 
+#### Quick Links
+- [1. Setting Up Your Workflow](#1-setting-up-your-workflow)
+- [2. Programming Chord Progressions](#2-programming-chord-progressions)
+- [3. Adding Basslines](#3-adding-basslines)
+- [4. Programming Melodies](#4-programming-melodies)
+- [5. Adding Drums](#5-adding-drums)
+- [6. Layering Pads and Atmosphere](#6-layering-pads-and-atmosphere)
+- [7. Fine-Tuning with MIDI Editing](#7-fine-tuning-with-midi-editing)
+- [8. Exporting and Preparing for Mixing](#8-exporting-and-preparing-for-mixing)
+- [9. Workflow Example](#9-workflow-example)
+- [Tools for MIDI Programming](#tools-for-midi-programming)
+
+---
 ### **1. Setting Up Your Workflow**
 
 #### **Purpose**: Optimize your DAW and tools for MIDI programming.

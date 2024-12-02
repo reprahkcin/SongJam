@@ -1,3 +1,6 @@
+# One Hour Songwriting Checklist
+This document serves to drive you sequentially through the songwriting process. Each step has an associated, clarifying document to aid in the creative process.  
+
 ## 1. Concept and Inspiration – 5 minutes
 
 - Quick brainstorming of themes and mood.

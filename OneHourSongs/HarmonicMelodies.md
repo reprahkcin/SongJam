@@ -1,6 +1,6 @@
 ### **Harmonic Melodies**
 
-## [[Harmony]]
+## See also [Harmony](Harmony.md)
 
 #### **Purpose**: Use supporting melodies to add depth and richness to the vocal melody.
 

@@ -3,16 +3,19 @@
 Efficient DAW setup streamlines the recording process, ensures high-quality live tracking, and sets the foundation for mixing and mastering. This section provides actionable tips for optimizing your DAW for both live tracking and subsequent production stages.
 
 ---
-[[#**1. General DAW Setup|1. General DAW Setup]]
-[[#**2. Configuring for Live Tracking|2. Configuring for Live Tracking]]
-[[#**3. Track Layout and Routing|3. Track Layout and Routing]]
-[[#**4. Plugin Chain Setup|4. Plugin Chain Setup]]
-[[#**5. Automating Workflow with Macros and Shortcuts|5. Automating Workflow with Macros and Shortcuts]]
-[[#**6. Preparing for Mixing and Mastering|6. Preparing for Mixing and Mastering]]
-[[#**7. Backup and Save Protocols|7. Backup and Save Protocols]]
-[[#**Example DAW Template Layout|Example DAW Template Layout]]
-[[#**Tools for DAW Setup|Tools for DAW Setup]]
 
+#### Quick Links
+- [1. General DAW Setup](#1-general-daw-setup)
+- [2. Configuring for Live Tracking](#2-configuring-for-live-tracking)
+- [3. Track Layout and Routing](#3-track-layout-and-routing)
+- [4. Plugin Chain Setup|4. Plugin Chain Setup](#4-plugin-chain-setup)
+- [5. Automating Workflow with Macros and Shortcuts](#5-automating-workflow-with-macros-and-shortcuts)
+- [6. Preparing for Mixing and Mastering](#6-preparing-for-mixing-and-mastering)
+- [7. Backup and Save Protocols](#7-backup-and-save-protocols)
+- [Example DAW Template Layout](#example-daw-template-layout)
+- [Tools for DAW Setup](#tools-for-daw-setup)
+
+---
 ### **1. General DAW Setup**
 
 #### **Purpose**: Create a template that minimizes repetitive tasks and improves efficiency.

@@ -3,14 +3,16 @@
 The goal of this process is to achieve an **80% finished polish** that sounds professional and translates well across playback systems. This streamlined approach prioritizes speed and builds on any extra time you may have.
 
 ---
-[[#**1. Pre-Mastering Setup|1. Pre-Mastering Setup]]
-[[#**2. Mastering Chain Workflow|2. Mastering Chain Workflow]]
-[[#**3. Optional Steps for Extra Time|3. Optional Steps for Extra Time]]
-[[#**4. Scaling the Workflow|4. Scaling the Workflow]]
-[[#**5. Quick Mastering Workflow Example|5. Quick Mastering Workflow Example]]
-[[#**6. Tools for Quick Mastering|6. Tools for Quick Mastering]]
-[[#**7. Troubleshooting and Final Checks|7. Troubleshooting and Final Checks]]
+#### Quick Links
+- [1. Pre-Mastering Setup](#1-pre-mastering-setup)
+- [2. Mastering Chain Workflow](#2-mastering-chain-workflow)
+- [3. Optional Steps for Extra Time](#3-optional-steps-for-extra-time)
+- [4. Scaling the Workflow](#4-scaling-the-workflow)
+- [5. Quick Mastering Workflow Example](#5-quick-mastering-workflow-example)
+- [6. Tools for Quick Mastering](#6-tools-for-quick-mastering)
+- [7. Troubleshooting and Final Checks](#7-troubleshooting-and-final-checks)
 
+---
 ### **1. Pre-Mastering Setup**
 
 #### **Purpose**: Prepare the mix for final mastering adjustments.

@@ -3,14 +3,16 @@
 The goal of this approach is to achieve a **“good-enough” mix** that’s clear, balanced, and emotionally impactful without getting bogged down in fine details. This system leverages templates, basic principles, and efficient workflows for speed and scalability.
 
 ---
-[[#**1. Pre-Mixing Preparation|1. Pre-Mixing Preparation]]
-[[#**2. The Quick Mixing Workflow|2. The Quick Mixing Workflow]]
-[[#**3. Group Mixing for Scalability|3. Group Mixing for Scalability]]
-[[#**4. Simplified Effects Workflow|4. Simplified Effects Workflow]]
-[[#**5. Quick Troubleshooting|5. Quick Troubleshooting]]
-[[#**6. Workflow for Speed|6. Workflow for Speed]]
-[[#**Tools for Quick Mixing|Tools for Quick Mixing]]
+#### Quick Links
+- [1. Pre-Mixing Preparation](#1-pre-mixing-preparation)
+- [2. The Quick Mixing Workflow](#2-the-quick-mixing-workflow)
+- [3. Group Mixing for Scalability](#3-group-mixing-for-scalability)
+- [4. Simplified Effects Workflow](#4-simplified-effects-workflow)
+- [5. Quick Troubleshooting](#5-quick-troubleshooting)
+- [6. Workflow for Speed](#6-workflow-for-speed)
+- [Tools for Quick Mixing](#tools-for-quick-mixing)
 
+---
 ### **1. Pre-Mixing Preparation**
 
 #### **Purpose**: Organize your session and streamline the mixing process.

@@ -1,6 +1,6 @@
 ### **Key and Scale**
 
-## [[Keys]]
+## See also [Keys](Keys.md)
 
 #### **Purpose**: Set the tonal foundation for the song, shaping its emotional character and guiding harmonic choices.
 
