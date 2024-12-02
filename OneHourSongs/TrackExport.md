@@ -3,17 +3,20 @@
 Efficiently exporting your tracks ensures they’re ready for mixing, mastering, or sharing without unnecessary delays. Whether you’re exporting stems, a rough mix, or a final master, these tips will streamline the process.
 
 ---
-[[#**1. Organize Your Project Before Exporting|1. Organize Your Project Before Exporting]]
-[[#**2. Decide on Export Needs|2. Decide on Export Needs]]
-[[#**3. Export Settings|3. Export Settings]]
-[[#**4. Workflow for Exporting Stems|4. Workflow for Exporting Stems]]
-[[#**5. Exporting Individual Tracks|5. Exporting Individual Tracks]]
-[[#**6. Bounce-In-Place for Quick Adjustments|6. Bounce-In-Place for Quick Adjustments]]
-[[#**7. Save Export Presets|7. Save Export Presets]]
-[[#**8. Quality Check Before Exporting|8. Quality Check Before Exporting]]
-[[#**9. Time-Saving Tips|9. Time-Saving Tips]]
-[[#**10. Exporting Checklist|10. Exporting Checklist]]
 
+#### Quick Links
+- [1. Organize Your Project Before Exporting](#1-organize-your-project-before-exporting)
+- [2. Decide on Export Needs](#2-decide-on-export-needs)
+- [3. Export Settings](#3-export-settings)
+- [4. Workflow for Exporting Stems](#4-workflow-for-exporting-stems)
+- [5. Exporting Individual Tracks](#5-exporting-individual-tracks)
+- [6. Bounce-In-Place for Quick Adjustments](#6-bounce-in-place-for-quick-adjustments)
+- [7. Save Export Presets](#7-save-export-presets)
+- [8. Quality Check Before Exporting](#8-quality-check-before-exporting)
+- [9. Time-Saving Tips](#9-time-saving-tips)
+- [10. Exporting Checklist](#10-exporting-checklist)
+
+---
 ### **1. Organize Your Project Before Exporting**
 
 #### **Purpose**: Ensure everything is labeled and prepared to avoid confusion later.
