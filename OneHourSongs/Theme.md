@@ -6,7 +6,7 @@
 
 - **Prompts for Fast Ideas**:
     - Use a **random prompt generator** (e.g., "Write about longing through the metaphor of seasons").
-    - Browse a collection of curated [[Prompts]]
+    - Browse a collection of curated [prompts](Prompts.md)
 - **Batch Processing**:
     - Pre-generate themes for multiple songs at once and keep a list on hand.
     - Example: Write 20 themes in one sitting, pull from the list as needed.
