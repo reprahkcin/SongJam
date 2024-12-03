@@ -197,8 +197,7 @@ The goal here is to create a roadmap for the song. This step ensures that your c
 
 #### **Output by the End of This Step:**
 
-- A clear structure, like this:
-
+A clear structure, like this:
 - Intro (4 bars)
 - Verse 1 (8 bars) - Set the scene.
 - Chorus (8 bars) - Emotional impact.
